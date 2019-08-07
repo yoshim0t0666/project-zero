@@ -1,2 +1,3 @@
-git init
-git remote add origin git@github.com:yoshim0t0666/project-zero.git
+git add .
+git commit -m "first commit"
+git push -u origin master
